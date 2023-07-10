@@ -27,3 +27,8 @@ This is a comprehensive performance test question, and the scoring criteria are 
 I have successfully scored 100 out of 100 on this project.
 
 ![Image](https://user-images.githubusercontent.com/70815297/252259147-fccbd104-00f1-4c16-a812-94313f62c6aa.jpg)
+
+
+Remember, I haven't uploaded my source code. If you need help, you can contact me through my email at sahchandan98@buaa.edu.cn
+Thanks!
+Let's code!
